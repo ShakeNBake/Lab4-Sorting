@@ -1,0 +1,5 @@
+Command to run program:
+
+java SortAlgoBenchmark [data]
+
+,where data = path to folder with data in .dat format
